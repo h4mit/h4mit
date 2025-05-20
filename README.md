@@ -37,18 +37,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/h4mit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/h4mit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/h4mit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/imh4mit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://h4mit.ir"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </div>
 
----
-
-<h2 align="center">🔥 Featured Projects</h2>
-- **[Project Name](https://github.com/h4mit/project-name)**: A TypeScript-based web app with [describe key features].
-- **[Project Name](https://github.com/h4mit/project-name)**: A Go-powered backend API for [describe key features].
-
----
-
-<h2 align="center">📝 Latest Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+--
