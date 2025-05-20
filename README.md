@@ -12,7 +12,7 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,js,html,css,angular,react,nodejs,express,mongodb,mysql,redis,postgresql,linux,nginx,apache,docker" />
+  <img src="https://skillicons.dev/icons?i=typescript,go,js,html,css,angular,reactivex,react,redux,nextjs,nodejs,lit,express,mongodb,mysql,redis,postgresql,linux,nginx,nestjs,symfony,electron,figma,deno,npm,gulp,gradle,,openstack,rabbitmq,raspberrypi,tailwind,wordpress,cloudflare,kafka,kubernetes,heroku,postman,atom,vscode" />
 </div>
 
 ---
