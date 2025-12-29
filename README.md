@@ -1,44 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Hamid+Taheri!;TypeScript+&+Go+Enthusiast;" />
-</h1>
-
 <div align="center">
-  <img src="https://your-image-url.com/hamid-taheri-logo.png" align="right" width="150"/>
-  <h3>👨‍💻 About Me</h3>
-  <p>I'm Hamid Taheri, a passionate software engineer with an M.Sc. in Software Engineering. Coding since 15 with Quick Basic, now diving deep into <b>TypeScript</b> and <b>Go</b>. I love building scalable web solutions and exploring the semantic web. Always learning, always coding! 🚀</p>
+  
+# 👋 Hey, I'm Hamid Taheri
+
+**Software Architect** · **Full-Stack Developer** · **DevOps Engineer**
+
+🎓 M.Sc. Software Engineering | 💰 FinTech Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4mit/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/h4mit)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imh4mit)
+[![Website](https://img.shields.io/badge/h4mit.ir-000?style=flat-square&logo=firefox&logoColor=white)](https://h4mit.ir)
+
 </div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4mit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="320"/>
+
+### 🧑‍💻 About
+
+Passionate engineer building **scalable FinTech solutions**.
+
+Coding since 15, now focused on crafting robust systems with clean architecture and modern DevOps practices.
+
+### 🔥 What I Do
+
+- 🏗️ **Software Architecture** — Microservices, DDD, Event-Driven
+- 🌐 **Full-Stack Development** — End-to-end web solutions  
+- ⚙️ **DevOps** — CI/CD, Kubernetes, Cloud Infrastructure
+- 💳 **FinTech** — Payment Systems, Trading Platforms
+
+<br clear="right"/>
+
+---
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,js,html,css,angular,reactivex,react,redux,nextjs,nodejs,lit,express,mongodb,mysql,redis,postgresql,linux,nginx,nestjs,symfony,electron,figma,deno,npm,gulp,gradle,,openstack,rabbitmq,raspberrypi,tailwind,wordpress,cloudflare,kafka,kubernetes,heroku,postman,atom,vscode" />
+
+### 🛠️ Primary Stack
+
+<img src="https://skillicons.dev/icons?i=go,typescript&theme=dark" height="50"/>
+
+### 💻 Full-Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs&theme=dark" height="40"/>
+
+### ☁️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,kafka,redis&theme=dark" height="40"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" height="40"/>
+
 </div>
 
 ---
 
-<h2 align="center">💡 What I'm Passionate About</h2>
-- Building robust web applications with <b>TypeScript</b> for type-safe, scalable code.
-- Exploring <b>Go</b> for its simplicity and performance in backend development.
-- Diving into the <b>Semantic Web</b>, inspired by my M.Sc. thesis.
-- Open-source contributions and learning new frameworks daily!
+<div align="center">
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4mit&theme=tokyonight)](https://github.com/h4mit)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4mit&theme=tokyonight)](https://github.com/h4mit)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4mit&theme=tokyonight)](https://github.com/h4mit)
+
+</div>
+
+
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h4mit&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+
+</div>
+
+
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4mit&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4mit&layout=compact&theme=radical" />
+  
+### 🎯 Current Focus
+
+`FinTech Microservices` · `Event-Driven Architecture` · `Cloud Native Apps` · `System Design`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=h4mit&color=58A6FF&style=flat-square&label=Profile+Views" />
+
 </div>
-
----
-
-<h2 align="center">📬 Connect with Me</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/h4mit/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/h4mit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://twitter.com/imh4mit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://h4mit.ir"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</div>
-
---
